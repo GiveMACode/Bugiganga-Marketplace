@@ -1,0 +1,6 @@
+@BugigangaApi_HostAddress = http://localhost:5272
+
+GET {{BugigangaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
